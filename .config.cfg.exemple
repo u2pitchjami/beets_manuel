@@ -1,0 +1,15 @@
+BASE=/path/to/musical/Collection*
+BASE2=/path/to/link
+BASE3=/path/to/copy
+BASESERVEUR=/path/to/musical/Collection#for link if source client is different
+ACHECKER=/path/to/file/achecker.txt#from recap_musique
+DATE=$(date "+%Y-%m-%d")
+DAY=$(date +%w)
+DOSLOG=/path/to/logs/
+LOG=${DOSLOG}/${DATE}-Clips_Selection_Update.txt
+LOGPASGENRE=${DOSLOG}/${DATE}-Clips_Selection_PasdeGenre_Update_.txt
+LOGPASGENREALBUM=${DOSLOG}/${DATE}-Clips_Selection_PasdeGenreparAlbum_Update.txt
+LOGNONOK=${DOSLOG}/${DATE}-Clips_Selection_RejetGenre_Update.txt
+LOGNONOKALBUM=${DOSLOG}/${DATE}-Clips_Selection_RejetGenreparAlbum_Update.txt
+LOGACHECKER=${DOSLOG}/${DATE}-Clips_Selection_AChecker_Update.txt
+LOGAJOUTS=${DOSLOG}/${DATE}-Clips_Selection_Ajouts_Update.txt
