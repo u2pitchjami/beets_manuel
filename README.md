@@ -1,3 +1,4 @@
+![socialify](https://socialify.git.ci/u2pitchjami/beets_manuel/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Auto)
 
 # Beets_manuel
 
