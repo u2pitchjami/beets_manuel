@@ -56,7 +56,7 @@ pip install "beets[lyrics]"
 pip install "beets[lastgenre]"
 pip install "beets[autobpm]"
 pip install "beets[discogs]"
-pip install -U discogs_client
+pip install -U "discogs_client"
 pip install "beets-beatport4"
 ```
 Ressources : [Beets plugins](https://beets.readthedocs.io/en/stable/plugins/index.html), [beets-beatport4 0.3.4](https://pypi.org/project/beets-beatport4/), [Issue with Discogs](https://github.com/beetbox/beets/issues/1867#issuecomment-195074596)
@@ -69,7 +69,9 @@ see mine in list files.
 ```bash
 git clone https://github.com/u2pitchjami/beets_manuel.git
 ```    
-### 8 - Configuration :
+### 9 - Configuration :
+
+![Capture d'écran 2024-12-02 174046](https://github.com/user-attachments/assets/4b155b28-53a5-4a8e-aefe-583c2b763f73)
 
 You need 2 Configurations files in your .config/beets/config.yalm and config.yalm.manuel
 
