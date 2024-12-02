@@ -29,6 +29,7 @@ tar -czf ${DIRSAV_BEETS}${BACKUP_BEETS}.tar.gz ${BASE_BEETS}
 echo -e "Sauvegarde compressée: \e[32m${BACKUP_BEETS}.tar.gz\e[0m\n" | tee -a "${LOG}"
 echo -e "sauvegarde réalisée" | tee -a "${LOG}"
 
+$BEETS_ENV
 int_manuelle() {
 
 echo -e "Modification du fichier de conf" | tee -a "${LOG}"
