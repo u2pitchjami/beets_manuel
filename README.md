@@ -2,7 +2,7 @@
 
 # Beets_manuel
 
-The purpose of this script is to to easily and quickly perform some commands in beets
+The purpose of this script is to easily and quickly perform some commands in beets
 
 
 [Beets](https://beets.io/) is the media library management system for obsessive music geeks.
