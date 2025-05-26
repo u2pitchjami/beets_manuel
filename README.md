@@ -1,3 +1,12 @@
+# 🗃️ Projet archivé
+
+> Ce dépôt a été fusionné dans [mixonaut](https://github.com/u2pitchjami/mixonaut).
+>
+>
+> > Aucune modification ne sera faite ici. Merci de contribuer sur le dépôt principal.
+
+
+
 ![beets_manuel](https://socialify.git.ci/u2pitchjami/beets_manuel/image?description=1&language=1&logo=https%3A%2F%2Fgreen-berenice-35.tiiny.site%2Fimage2vector-3.svg&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 
 # Beets_manuel
